@@ -17,7 +17,7 @@ https://playback.akamaized.net/streams/28126860_9438854_lsiaoelgkatg8x7gd9z_1/me
 https://playback.akamaized.net/streams/27456795_8268514_lsixe0eob2g8ww8iwjx_1/media/27456795_8268514_lsixe0eob2g8ww8iwjx_1@628000p.m3u8?dw=14400&ts=1616522400&hdnts=exp=1616696677~acl=/streams/27456795_8268514_lsixe0eob2g8ww8iwjx_1/media*~hmac=398f5258b179729ae2a4752b637c63e4d261ace164b89d67b5b84311af72f102
 #EXTINF: -1 tvg-logo="https://www.canal19.do/wp-content/uploads/2020/11/500-X-500-PERFIL-PAGINA-LOGO-250x250.png" group-title="Principales", CineVision 19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
-#EXTINF: -1 group-title="Principales", Antena 21
+#EXTINF: -1 tvg-logo="https://www.altice.com.do/sites/default/files/styles/teaser_device/public/assets/channel/Antena21.png" group-title="Principales", Antena 21
 https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2NTUxNTY2LCJzZXNzaW9uIjoiMTkwLjE2Ni4xMzMuNzEiLCJ3aGl0ZWxpc3QiOlsiMTkwLjE2Ni4xMzMuNzEiXX0sInNpZ25hdHVyZSI6IjA1OWJhYWQwMzhhNDMyMjg4Zjg5OTMzNTY3ZmQwZTliMDM5NGUwODgifQ%3D%3D
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-x6z1tqYrgpM/WrudYi27YOI/AAAAAAAAdDg/SbztxSwknewPyaiJXj9GM-GccxZNcK5SwCPcBGAYYCw/s200/Telefuturo.png" group-title="Principales",Telefuturo 23
 https://ss8.domint.net:3118/tf_str/futu/playlist.m3u8
