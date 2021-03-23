@@ -1,41 +1,41 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png/revision/latest/scale-to-width-down/340?cb=20170520221635" group-title="Primarios",4 RD
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png/revision/latest/scale-to-width-down/340?cb=20170520221635" group-title="Principales",4 RD
 https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/chunklist_w1892123356_b700000_slen.m3u8
-#EXTINF: -1 tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/08/TELEMICRO-LOGO-1.png" group-title="Dominicanos", TeleMicro 5
+#EXTINF: -1 tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/08/TELEMICRO-LOGO-1.png" group-title="Principales", TeleMicro 5
 https://playback.akamaized.net/streams/27456795_8825585_lsimvsu1i23g1y8ujj3_1/media/27456795_8825585_lsimvsu1i23g1y8ujj3_1@628000p.m3u8?dw=14400&ts=1616522400&hdnts=exp=1616695662~acl=/streams/27456795_8825585_lsimvsu1i23g1y8ujj3_1/media*~hmac=4ac2f3f6639663655b8469c533e77997be19dc84bfe9fe509e579ba8a21aa1bf
-#EXTINF: -1 tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/08/TELEMICRO-LOGO-1.png" group-title="Dominicanos", Telemicro HD 5
+#EXTINF: -1 tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/08/TELEMICRO-LOGO-1.png" group-title="Principales", Telemicro HD 5
 https://playback.akamaized.net/streams/28126860_8825282_lsiywpqhtnm33st2mt2_1/media/28126860_8825282_lsiywpqhtnm33st2mt2_1@3628000p.m3u8?dw=14400&ts=1616522400&hdnts=exp=1616696349~acl=/streams/28126860_8825282_lsiywpqhtnm33st2mt2_1/media*~hmac=cd6d8663bf439f5a6aff5eeb7019dac07a1d09a212f5605ab0d181819e65084d
-#EXTINF: -1 tvg-logo="https://www.antena7.com.do/wp-content/themes/albavision-theme/img/logo.png" group-title="Dominicanos", Antena 7
+#EXTINF: -1 tvg-logo="https://www.antena7.com.do/wp-content/themes/albavision-theme/img/logo.png" group-title="Principales", Antena 7
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2NTUxMTEyLCJzZXNzaW9uIjoiMTkwLjE2Ni4xMzMuNzEiLCJ3aGl0ZWxpc3QiOlsiMTkwLjE2Ni4xMzMuNzEiXX0sInNpZ25hdHVyZSI6IjNkMjI1ZjFiMzNkZTY4ZjQ1OTRkNGVjNzNlOWI2YzM2MTZjYTBjNmYifQ%3D%3D
-#EXTINF:-1 tvg-id="" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="Dominicanos", Color Vision
+#EXTINF:-1 tvg-id="" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="Principales", Color Vision 9
 https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYzLVXO2771TRzbn0grVdrMc)/dm/3/x7gy059/d/live-1.m3u8
-#EXTINF: -1 tvg-logo="https://telesistema11.com.do/themes/telesistemas/assets/img/logo-telesistemas.png" group-title="Dominicanos", TeleSitemas 11
+#EXTINF: -1 tvg-logo="https://telesistema11.com.do/themes/telesistemas/assets/img/logo-telesistemas.png" group-title="Principales", TeleSitemas 11
 https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w845305324.m3u8
-#EXTINF: -1 tvg-logo="https://secureservercdn.net/50.62.198.97/rhc.76d.myftpupload.com/wp-content/uploads/2018/05/logo.png?time=1616250675" group-title="Dominicanos", TeleCentro 13
+#EXTINF: -1 tvg-logo="https://secureservercdn.net/50.62.198.97/rhc.76d.myftpupload.com/wp-content/uploads/2018/05/logo.png?time=1616250675" group-title="Principales", TeleCentro 13
 https://playback.akamaized.net/streams/28126860_9438854_lsiaoelgkatg8x7gd9z_1/media/28126860_9438854_lsiaoelgkatg8x7gd9z_1@1628000p.m3u8?dw=14400&ts=1616518800&hdnts=exp=1616694821~acl=/streams/28126860_9438854_lsiaoelgkatg8x7gd9z_1/media*~hmac=2f0ca316f742f5034cc454c1d9c0bc7ac18f666d9611810661f71ea1b5d72bb9
-#EXTINF: -1 tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/digital-15-trans-455x300.jpg" group-title="Dominicanos", Digital 15
+#EXTINF: -1 tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/digital-15-trans-455x300.jpg" group-title="Principales", Digital 15
 https://playback.akamaized.net/streams/27456795_8268514_lsixe0eob2g8ww8iwjx_1/media/27456795_8268514_lsixe0eob2g8ww8iwjx_1@628000p.m3u8?dw=14400&ts=1616522400&hdnts=exp=1616696677~acl=/streams/27456795_8268514_lsixe0eob2g8ww8iwjx_1/media*~hmac=398f5258b179729ae2a4752b637c63e4d261ace164b89d67b5b84311af72f102
-#EXTINF: -1 tvg-logo="https://www.canal19.do/wp-content/uploads/2020/11/500-X-500-PERFIL-PAGINA-LOGO-250x250.png" group-title="Dominicanos", CineVision 19
+#EXTINF: -1 tvg-logo="https://www.canal19.do/wp-content/uploads/2020/11/500-X-500-PERFIL-PAGINA-LOGO-250x250.png" group-title="Principales", CineVision 19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
-#EXTINF: -1 group-title="Dominicanos", Antena 21
+#EXTINF: -1 group-title="Principales", Antena 21
 https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2NTUxNTY2LCJzZXNzaW9uIjoiMTkwLjE2Ni4xMzMuNzEiLCJ3aGl0ZWxpc3QiOlsiMTkwLjE2Ni4xMzMuNzEiXX0sInNpZ25hdHVyZSI6IjA1OWJhYWQwMzhhNDMyMjg4Zjg5OTMzNTY3ZmQwZTliMDM5NGUwODgifQ%3D%3D
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-x6z1tqYrgpM/WrudYi27YOI/AAAAAAAAdDg/SbztxSwknewPyaiJXj9GM-GccxZNcK5SwCPcBGAYYCw/s200/Telefuturo.png" group-title="Dominicanos",Telefuturo 23
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-x6z1tqYrgpM/WrudYi27YOI/AAAAAAAAdDg/SbztxSwknewPyaiJXj9GM-GccxZNcK5SwCPcBGAYYCw/s200/Telefuturo.png" group-title="Principales",Telefuturo 23
 https://ss8.domint.net:3118/tf_str/futu/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://canal25rd.com/images/canal25_logo_2017_small.png" group-title="Dominicanos", Canal 25
+#EXTINF: -1 tvg-logo="https://canal25rd.com/images/canal25_logo_2017_small.png" group-title="Principales", Canal 25
 https://ss5.domint.net:3050/c25_str/canal25/chunklist_w1404824844.m3u8
-#EXTINF: -1 tvg-logo="https://i2.wp.com/rnn.com.do/wp-content/uploads/2020/11/cropped-logo-3-300x95-1.png" group-title="Dominicanos", RNN 27
+#EXTINF: -1 tvg-logo="https://i2.wp.com/rnn.com.do/wp-content/uploads/2020/11/cropped-logo-3-300x95-1.png" group-title="Principales", RNN 27
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1088690613.m3u8
-#EXTINF: -1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2020/08/logo.png" group-title="Dominicanos", TeleUniverso 29
+#EXTINF: -1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2020/08/logo.png" group-title="Principales", TeleUniverso 29
 https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
-#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwUyY-XNo1kHFsUWtBSd3RqCqLkoWAxljQwVw=s288-c-k-c0xffffffff-no-rj-mo" group-title="Dominicanos",Super Canal 33
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwUyY-XNo1kHFsUWtBSd3RqCqLkoWAxljQwVw=s288-c-k-c0xffffffff-no-rj-mo" group-title="Principales",Super Canal 33
 http://190.122.96.186:8888/http/005
-#EXTINF: -1 tvg-logo="https://storage.googleapis.com/mmc-cdn-bucket/uploads/2018/04/9aa23ad9-logo-nuevo-cdn.png" group-title="Dominicanos", CDN 37
+#EXTINF: -1 tvg-logo="https://storage.googleapis.com/mmc-cdn-bucket/uploads/2018/04/9aa23ad9-logo-nuevo-cdn.png" group-title="Principales", CDN 37
 https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/master.m3u8?hdnea=st=1616526315~exp=1616526715~acl=/i/dclive_1@167228*~hmac=44ff8c8ea41392441f04c435203308bee61d4443aa8dea7a4836566ba30eab16
-#EXTINF: -1 tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2020/01/cdndeportes-logo.png" group-title="Dominicanos", CDN SportMax
+#EXTINF: -1 tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2020/01/cdndeportes-logo.png" group-title="Principales", CDN SportMax
 https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/master.m3u8?hdnea=st=1616525885~exp=1616526285~acl=/i/dclive_1@322095*~hmac=4af9f34c6386ba2b3a0e88de9431aab3c74204fd7ebd160485673fac9a9979a6
-#EXTINF: -1 group-title="Dominicanos", Coral 39
+#EXTINF: -1 group-title="Principales", Coral 39
 https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Dominicanos Interior", Otra Banda TV
+#EXTINF: -1 group-title="Interior", Otra Banda TV
 https://5790d294af2dc.streamlock.net:443/8208/8208/playlist.m3u8
-#EXTINF: -1 group-title="Dominicanos Interior", Ready TV
+#EXTINF: -1 group-title="Interior", Ready TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
