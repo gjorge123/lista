@@ -39,8 +39,9 @@ https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 https://ss3.domint.net:3008/tra_str/canal45/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-ame-47-tv-1188-316x237.jpg" group-title="Principales", Ame 47
 https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
-#EXTINF: -1 group-title="Interior", Otra Banda TV
+#EXTINF: -1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/OTRA-BANDA-TV.jpg" group-title="Interior", Otra Banda TV
 https://5790d294af2dc.streamlock.net:443/8208/8208/playlist.m3u8
-#EXTINF: -1 group-title="Interior", Ready TV
+#EXTINF: -1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="Interior", Ready TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-
+#EXTINF: -1 tvg-logo="http://1.bp.blogspot.com/-D33PBT60QA4/Xz6ScLioWPI/AAAAAAAAAq4/pRT80qnm-lYxGXIHCe3H22ILIFtB_xg8gCK4BGAYYCw/s1240/Urbancristv.png" group-title="Interior", Urbancris TV
+https://5790d294af2dc.streamlock.net/8228/8228/playlist.m3u8
