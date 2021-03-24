@@ -30,9 +30,9 @@ https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwUyY-XNo1kHFsUWtBSd3RqCqLkoWAxljQwVw=s288-c-k-c0xffffffff-no-rj-mo" group-title="Principales",Super Canal 33
 http://190.122.96.186:8888/http/005
 #EXTINF: -1 tvg-logo="https://storage.googleapis.com/mmc-cdn-bucket/uploads/2018/04/9aa23ad9-logo-nuevo-cdn.png" group-title="Principales", CDN 37
-https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/master.m3u8?hdnea=st=1616526315~exp=1616526715~acl=/i/dclive_1@167228*~hmac=44ff8c8ea41392441f04c435203308bee61d4443aa8dea7a4836566ba30eab16
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/master.m3u8?hdnea=st=1616553165~exp=1616553565~acl=/i/dclive_1@167228*~hmac=d942e11bc4fdefc65e596cd85f6d9db46159152cf6c5a1ef800f56bc324fd288
 #EXTINF: -1 tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2020/01/cdndeportes-logo.png" group-title="Principales", CDN SportMax
-https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/master.m3u8?hdnea=st=1616525885~exp=1616526285~acl=/i/dclive_1@322095*~hmac=4af9f34c6386ba2b3a0e88de9431aab3c74204fd7ebd160485673fac9a9979a6
+https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/master.m3u8?hdnea=st=1616553315~exp=1616553715~acl=/i/dclive_1@322095*~hmac=2b3229c4092c626114c712112bee4e4ddf346022ec63b7668afd00e7ca96bf3b
 #EXTINF: -1 group-title="Principales", Coral 39
 https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="Interior", Otra Banda TV
