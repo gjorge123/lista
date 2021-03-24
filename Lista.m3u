@@ -59,3 +59,10 @@ https://ss6.domint.net:3012/tes_str/teleelsalvador/playlist.m3u8
 https://ss8.domint.net:3084/vttv_str/tropicotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://phtv.com.do/wp-content/uploads/2020/10/cropped-logo_ph.png" group-title="Interior", PH TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://romanatv42.com/imgs/logo_romanatv.png" group-title="Interior", Romana TV
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF: -1 tvg-logo="https://tvtvtv.ru/icons/mision_eltv.png" group-title="Interior", Mision ELTV
+https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://teleuniontvrd.com/portal/wp-content/themes/rt_manticore/images/logoteleunionsmall.png" group-title="Interior", TeleUnion
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
