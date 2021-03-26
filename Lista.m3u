@@ -74,3 +74,14 @@ https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://tvo.com.do/imgs/logo.png" group-title="Interior", TVO
 https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-XIBpdGzUO4Q/X6mX3Zb3MmI/AAAAAAAAWBc/3QjD5xug8b8c9kZTbDn_GK_9l_rC10pDgCK4BGAYYCw/s302/WhatsApp%2BImage%2B2020-11-07%2Bat%2B2.23.34%2BPM%2B%25282%2529.jpeg" group-title="Interior", Alegre TV
+https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8?qthaher
+#EXTINF: -1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png" group-title="Interior", Aliento Vision
+https://livestreamcdn.net:444/AlientoSD/mp4:AlientoSD_720p/chunklist_w92535846.m3u8
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-gPahFx4jS-4/WJYoSYlG5ZI/AAAAAAAADMY/HvXJduXSnZA_Y_tjKcoE3jYG7xLyi5EAQCLcB/s200/bajo_techo_tv_%2Bonline.jpg" group-title="Interior", Aliento Vision
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://bellavision8.com/wp-content/uploads/2020/05/BVlogo.png" group-title="Interior", Bellavision
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://www.bonaotv.com/images/bonao_logo_pb_500sm.png" group-title="Interior", Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+
