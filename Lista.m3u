@@ -2,17 +2,6 @@
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png/revision/latest/scale-to-width-down/340?cb=20170520221635" group-title="Principales",4 RD
 https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/chunklist_w1892123356_b700000_slen.m3u8
 #EXTINF: -1 tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/08/TELEMICRO-LOGO-1.png" group-title="Principales", TeleMicro 5
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=628000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=642x360
-https://playback.akamaized.net/streams/27456795_8825585_lsiuym4hu1yvbtaf7fc_1/media/27456795_8825585_lsiuym4hu1yvbtaf7fc_1@628000p.m3u8?dw=14400&ts=1616785200&hdnts=exp=1616959600~acl=/streams/27456795_8825585_lsiuym4hu1yvbtaf7fc_1/media*~hmac=41507c9517d068b092c6a1521bc948860a1298628a3afe376dffd342e3685c06
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=628000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=642x360
-https://playback.akamaized.net/streams/27456795_8825585_lsiuym4hu1yvbtaf7fc_1/media/27456795_8825585_lsiuym4hu1yvbtaf7fc_1@628000pb.m3u8?dw=14400&ts=1616785200&hdnts=exp=1616959600~acl=/streams/27456795_8825585_lsiuym4hu1yvbtaf7fc_1/media*~hmac=41507c9517d068b092c6a1521bc948860a1298628a3afe376dffd342e3685c06
-#EXTINF: -1 tvg-logo="https://secureserv#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=628000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=642x360
-https://playback.akamaized.net/streams/27456795_8825585_lsiuym4hu1yvbtaf7fc_1/media/27456795_8825585_lsiuym4hu1yvbtaf7fc_1@628000p.m3u8?dw=14400&ts=1616785200&hdnts=exp=1616959600~acl=/streams/27456795_8825585_lsiuym4hu1yvbtaf7fc_1/media*~hmac=41507c9517d068b092c6a1521bc948860a1298628a3afe376dffd342e3685c06
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=628000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=642x360
-https://playback.akamaized.net/streams/27456795_8825585_lsiuym4hu1yvbtaf7fc_1/media/27456795_8825585_lsiuym4hu1yvbtaf7fc_1@628000pb.m3u8?dw=14400&ts=1616785200&hdnts=exp=1616959600~acl=/streams/27456795_8825585_lsiuym4hu1yvbtaf7fc_1/media*~hmac=41507c9517d068b092c6a1521bc948860a1298628a3afe376dffd342e3685c06
-rcdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/08/TELEMICRO-LOGO-1.png" group-title="Principales", Telemicro HD 5
-https://playback.akamaized.net/streams/28126860_8825282_lsiywpqhtnm33st2mt2_1/media/28126860_8825282_lsiywpqhtnm33st2mt2_1@3628000p.m3u8?dw=14400&ts=1616522400&hdnts=exp=1616696349~acl=/streams/28126860_8825282_lsiywpqhtnm33st2mt2_1/media*~hmac=cd6d8663bf439f5a6aff5eeb7019dac07a1d09a212f5605ab0d181819e65084d
 #EXTINF: -1 tvg-logo="https://www.antena7.com.do/wp-content/themes/albavision-theme/img/logo.png" group-title="Principales", Antena 7
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2NTUxMTEyLCJzZXNzaW9uIjoiMTkwLjE2Ni4xMzMuNzEiLCJ3aGl0ZWxpc3QiOlsiMTkwLjE2Ni4xMzMuNzEiXX0sInNpZ25hdHVyZSI6IjNkMjI1ZjFiMzNkZTY4ZjQ1OTRkNGVjNzNlOWI2YzM2MTZjYTBjNmYifQ%3D%3D
 #EXTINF:-1 tvg-id="" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="Principales", Color Vision 9
